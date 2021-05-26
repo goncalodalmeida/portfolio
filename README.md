@@ -1,2 +1,2 @@
 # portfolio
-Portfolio from developer
+My portfolio
